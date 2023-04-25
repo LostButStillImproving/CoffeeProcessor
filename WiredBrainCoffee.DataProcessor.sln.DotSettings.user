@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\asusv\AppData\Local\JetBrains\Rider2022.3\resharper-host\temp\Rider\vAny\CoverageData\_WiredBrainCoffee.DataProcessor.938747411\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3e5060da_002D205c_002D4a85_002D9435_002Dfe1c41953778/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldSkipEmptyLines" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5586A59B-DDB7-418C-81F0-33332014E96A::net7.0::WiredBrainCoffee.DataProcessor.Parsing.CsvLineParserTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5586A59B-DDB7-418C-81F0-33332014E96A::net7.0::WiredBrainCoffee.DataProcessor.Processing.MachineDataProcessorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5586A59B-DDB7-418C-81F0-33332014E96A::net7.0::WiredBrainCoffee.DataProcessor.Data.ConsoleCoffeeCountStoreTests.ShouldWriteOutputToConsole&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5586A59B-DDB7-418C-81F0-33332014E96A::net7.0::WiredBrainCoffee.DataProcessorTests.Data.ConsoleCoffeeCountStoreTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
