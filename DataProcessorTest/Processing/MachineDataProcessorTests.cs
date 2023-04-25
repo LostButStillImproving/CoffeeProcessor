@@ -48,7 +48,7 @@ public class MachineDataProcessorTests : IDisposable
         _machineDataProcessor.ProcessItems(dataItems);
         
         //Assert
-        Assert.Equal(1, _coffeeCountStoreMock.SavedItems.Count);
+        Assert.Equal(2, _coffeeCountStoreMock.SavedItems.Count);
         foreach (var item in _coffeeCountStoreMock.SavedItems)
         {
             Assert.Equal("cappucino", item.CoffeeType);
